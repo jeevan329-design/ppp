@@ -6,5 +6,5 @@ import react from '@vitejs/plugin-react'
 // the base is '/Jeevwn/'
 export default defineConfig({
   plugins: [react()],
-  base: '/Jeevwn/',
+  base: '/ppp/',
 })
